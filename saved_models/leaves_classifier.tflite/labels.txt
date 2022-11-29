@@ -1,0 +1,3 @@
+Leaves_Brownspot
+Leaves_Healthy
+Leaves_Woodiness

@@ -1,0 +1,3 @@
+Fruit_Brownspot
+Fruit_Healthy
+Fruit_Woodiness
